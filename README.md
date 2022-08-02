@@ -1,4 +1,4 @@
 # -Riddle-Chests-Bypass
-Simple python script to bypass riddle chests.
-v1.0
-Made by FreshlyBrewed#6362 add me on discord if you have anything to ask.
+Simple python script to make riddle chests faster to solve.
+## Usage
+Download the source code and run it.
